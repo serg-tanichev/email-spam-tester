@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "email-spam-tester": {
+      "url": "https://email-spam-tester.com/mcp"
+    }
+  }
+}
