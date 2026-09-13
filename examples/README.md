@@ -1,0 +1,1 @@
+Working examples of the three-call loop against the live API, in curl, Python (standard library only) and Node 18+. Each one reserves an address, waits for the message you send to it, and prints the scores and the findings. See the repository README for the API description.
