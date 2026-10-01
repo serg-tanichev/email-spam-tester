@@ -59,6 +59,7 @@ Working examples, each running the whole loop and printing the scores and the fi
 - [examples/curl.sh](examples/curl.sh)
 - [examples/python.py](examples/python.py), standard library only
 - [examples/node.mjs](examples/node.mjs), Node 18 or newer
+- In CI, the [GitHub Action](https://github.com/serg-tanichev/email-spam-tester-action) sends your real template through your SMTP relay and fails the job when SPF, DKIM or DMARC fails or the score drops
 
 The full field list is in the [API reference](https://email-spam-tester.com/api-docs/) and, for machines, in [llms-full.txt](https://email-spam-tester.com/llms-full.txt) and the [OpenAPI description](https://email-spam-tester.com/api/openapi.json).
 
